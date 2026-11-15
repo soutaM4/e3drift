@@ -1,6 +1,6 @@
 {
-  "name": "e3drift",
-  "short_name": "e3Drift",
+  "name": "e3ot drift demo",
+  "short_name": "e3ot drift",
   "id": "./",
   "start_url": "./index.html",
   "scope": "./",
@@ -10,14 +10,8 @@
     "standalone"
   ],
   "orientation": "any",
-  "dir": "ltr",
   "background_color": "#000000",
   "theme_color": "#000000",
-  "categories": [
-    "cars",
-    "entertainment",
-    "graphics"
-  ],
   "icons": [
     {
       "src": "icons/icon-192.png",
